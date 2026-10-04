@@ -129,3 +129,4 @@ export const LandingView: React.FC<LandingViewProps> = ({ onStart, onLoadDemo })
     </div>
   );
 };
+

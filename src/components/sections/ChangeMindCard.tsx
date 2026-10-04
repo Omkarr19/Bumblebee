@@ -75,3 +75,4 @@ export const ChangeMindCard: React.FC<ChangeMindCardProps> = ({ items }) => {
     </div>
   );
 };
+

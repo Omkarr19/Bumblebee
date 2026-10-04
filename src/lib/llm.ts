@@ -276,3 +276,4 @@ function parseReportJson(rawText: string, input: DecisionInput): BlindSpotReport
     return null;
   }
 }
+

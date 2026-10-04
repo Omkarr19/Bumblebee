@@ -165,3 +165,4 @@ export const ChallengeThinkingCard: React.FC<ChallengeThinkingCardProps> = ({
     </div>
   );
 };
+

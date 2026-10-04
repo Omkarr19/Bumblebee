@@ -65,3 +65,4 @@ export const TensionsCard: React.FC<TensionsCardProps> = ({ tensions }) => {
     </div>
   );
 };
+

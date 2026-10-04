@@ -96,3 +96,4 @@ export const BeforeDecideCard: React.FC<BeforeDecideCardProps> = ({ items: initi
     </div>
   );
 };
+

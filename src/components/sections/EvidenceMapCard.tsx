@@ -119,3 +119,4 @@ export const EvidenceMapCard: React.FC<EvidenceMapCardProps> = ({ items }) => {
     </div>
   );
 };
+

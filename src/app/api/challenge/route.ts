@@ -77,3 +77,4 @@ Respond in JSON with this structure:
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
 }
+

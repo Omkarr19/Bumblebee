@@ -93,3 +93,4 @@ export interface BlindSpotReport {
   possibleCognitivePatterns: CognitivePatternItem[];
   beforeYouDecide: ChecklistItem[];
 }
+

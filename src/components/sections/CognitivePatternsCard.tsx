@@ -57,3 +57,4 @@ export const CognitivePatternsCard: React.FC<CognitivePatternsCardProps> = ({ pa
     </div>
   );
 };
+

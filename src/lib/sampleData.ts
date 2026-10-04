@@ -237,3 +237,4 @@ export const INTERNSHIP_SAMPLE_REPORT: BlindSpotReport = {
     }
   ]
 };
+

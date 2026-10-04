@@ -48,3 +48,4 @@ export const PerspectivesCard: React.FC<PerspectivesCardProps> = ({ perspectives
     </div>
   );
 };
+

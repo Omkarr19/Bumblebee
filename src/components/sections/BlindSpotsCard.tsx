@@ -73,3 +73,4 @@ export const BlindSpotsCard: React.FC<BlindSpotsCardProps> = ({ blindSpots }) =>
     </div>
   );
 };
+

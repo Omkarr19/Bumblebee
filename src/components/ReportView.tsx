@@ -259,3 +259,4 @@ export const ReportView: React.FC<ReportViewProps> = ({ report, onEdit, apiKey }
     </div>
   );
 };
+

@@ -40,3 +40,4 @@ export const PrioritiesCard: React.FC<PrioritiesCardProps> = ({ priorities }) =>
     </div>
   );
 };
+
